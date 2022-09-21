@@ -2,7 +2,7 @@
 I'm a self taught 20 year old programmer from Germany. I mainly code in JS, TS, Node.JS and Python, but I also use HTML, CSS, React and MySQL.
 
 # 🌐 Resources:
-[![Website](https://walkaisa.dev/) ![Incognito](https://incognito.walkaisa.dev/) ![Image Uploader](https://img.walkaisa.dev/) ![Code Share](https://paste.walkaisa.dev/)
+![Website](https://walkaisa.dev/) ![Incognito](https://incognito.walkaisa.dev/) ![Image Uploader](https://img.walkaisa.dev/) ![Code Share](https://paste.walkaisa.dev/)
 
 ## 👥 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://walkaisa.dev/discord) 
