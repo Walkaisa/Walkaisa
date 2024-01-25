@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self taught 20 year old programmer from Germany. I mainly code in JS, TS, Node.JS and Python, but I also use HTML, CSS, React and MySQL.
+I'm a self taught 21 year old programmer from Germany. I mainly code in JS, TS, Node.JS and Python, but I also use HTML, CSS, React and MySQL.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://walkaisa.dev/discord) 
